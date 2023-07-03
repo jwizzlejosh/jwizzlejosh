@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshua Shiman</h1>
 <h3 align="center">A passionate student pursuing a degree in Business Technology Management Student with a Minor in Computer Science</h3>
 
-- 🔭 I’m currently working on **finding a Fall 2023 co-op/internship**
+- 💼 I’m currently working at **IBM Canada** as a Technical Writer Intern
 
-- 🌱 I’m currently learning **sqlite, mySQL, and docker**
+- 🌱 I’m currently learning **Terraform**
 
 - 👨‍💻 Check out my LinkedIn at [https://www.linkedin.com/in/joshuashiman/](https://www.linkedin.com/in/joshuashiman/)
 
