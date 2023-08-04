@@ -3,7 +3,7 @@
 
 - 💼 I’m currently working at **IBM Canada** as a Technical Writer Intern
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 Check out my LinkedIn at [https://www.linkedin.com/in/joshuashiman/](https://www.linkedin.com/in/joshuashiman/)
 
