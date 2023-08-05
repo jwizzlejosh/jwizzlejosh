@@ -9,8 +9,6 @@
 
 - 📝 My personal website can be found at [http://www.jshiman.com/](http://www.jshiman.com/)
 
-- 💬 Ask me about **my Homelab**
-
 - 📫 How to reach me **joshonmail@mail.com**
 
 <h3 align="left">Connect with me:</h3>
